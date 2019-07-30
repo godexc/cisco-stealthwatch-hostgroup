@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Just activate the virtualenv (https://virtualenv.pypa.io/en/stable/userguide/) but in any case, you should be able to run it on Python 3.6 and over.
+Python 3.6 (tested) and over
 
 
 ### How it Works
