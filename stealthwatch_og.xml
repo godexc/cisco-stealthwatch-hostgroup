@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<host-group-tree>
+    <outside-hosts host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+        <host-group id="60000" name="Countries" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+            <host-group id="61738" name="Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="61739" name="Eastern Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60800" name="Burundi" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61191" name="Comoros" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60887" name="Djibouti" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60938" name="Eritrea" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60940" name="Ethiopia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61183" name="Kenya" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61271" name="Madagascar" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61287" name="Malawi" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61285" name="Mauritius" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61800" name="Mayotte" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61290" name="Mozambique" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61484" name="Reunion" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61502" name="Rwanda" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61525" name="Seychelles" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61537" name="Somalia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61591" name="Tanzania, United Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61615" name="Uganda" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61836" name="Zambia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61846" name="Zimbabwe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61740" name="Middle Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60763" name="Angola" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60847" name="Cameroon" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60840" name="Central African Republic" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61569" name="Chad" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60841" name="Congo" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60838" name="Congo, The Democratic Republic Of The" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61023" name="Equatorial Guinea" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61007" name="Gabon" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61542" name="Sao Tome and Principe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61741" name="Northern Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60903" name="Algeria" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60927" name="Egypt" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61246" name="Libyan Arab Jamahiriya" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61265" name="Morocco" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61526" name="Sudan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61579" name="Tunisia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60928" name="Western Sahara" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61742" name="Southern Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60814" name="Botswana" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61240" name="Lesotho" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61308" name="Namibia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61824" name="South Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61548" name="Swaziland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61743" name="Western Africa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60801" name="Benin" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60797" name="Burkina Faso" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60856" name="Cape Verde" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60843" name="Cote d'Ivoire" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61019" name="Gambia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61014" name="Ghana" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61020" name="Guinea" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61029" name="Guinea-Bissau" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61239" name="Liberia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61276" name="Mali" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61282" name="Mauritania" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61312" name="Niger" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61314" name="Nigeria" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61536" name="Senegal" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61534" name="Sierra Leone" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61530" name="St. Helena" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61572" name="Togo" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+            </host-group>
+            <host-group id="61744" name="Americas" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="61745" name="Caribbean" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60757" name="Anguilla" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60755" name="Antigua and Barbuda" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60771" name="Aruba" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60810" name="Bahamas" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60793" name="Barbados" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61203" name="Cayman Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60855" name="Cuba" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60890" name="Dominica" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60892" name="Dominican Republic" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61010" name="Grenada" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61022" name="Guadeloupe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61069" name="Haiti" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61148" name="Jamaica" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61281" name="Martinique" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61283" name="Montserrat" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60762" name="Netherlands Antilles" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61411" name="Puerto Rico" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61192" name="St. Kitts and Nevis" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61224" name="St. Lucia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61654" name="St. Vincent and The Grenadines" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61585" name="Trinidad and Tobago" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61568" name="Turks and Caicos Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61658" name="Virgin Islands British" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61660" name="Virgin Islands U.S." host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61746" name="Central America" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60817" name="Belize" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60852" name="Costa Rica" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61544" name="El Salvador" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61026" name="Guatemala" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61063" name="Honduras" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61288" name="Mexico" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61316" name="Nicaragua" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61394" name="Panama" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61748" name="Northern America" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60804" name="Bermuda" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60835" name="Canada" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61018" name="Greenland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61406" name="St. Pierre and Miquelon" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61627" name="United States" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61747" name="South America" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60766" name="Argentina" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60806" name="Bolivia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60809" name="Brazil" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60846" name="Chile" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60849" name="Colombia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60923" name="Ecuador" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60974" name="Falkland Islands (Malvinas)" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61012" name="French Guiana" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61031" name="Guyana" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61418" name="Paraguay" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61398" name="Peru" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61540" name="Suriname" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61633" name="Uruguay" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61656" name="Venezuela" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+            </host-group>
+            <host-group id="61749" name="Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="61750" name="Central Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="61204" name="Kazakhstan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61185" name="Kyrgyzstan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61575" name="Tajikistan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61578" name="Turkmenistan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61634" name="Uzbekistan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61751" name="Eastern Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60848" name="China" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61060" name="Hong Kong" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61151" name="Japan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61194" name="Korea, Democratic People's Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61196" name="Korea, Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61279" name="Macao" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61278" name="Mongolia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61588" name="Taiwan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61753" name="South-Eastern Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60805" name="Brunei Darussalam" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61186" name="Cambodia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61577" name="East Timor" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61096" name="Indonesia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61222" name="Lao People's Democratic Republic" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61289" name="Malaysia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61277" name="Myanmar" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61401" name="Philippines" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61529" name="Singapore" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61573" name="Thailand" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61665" name="Vietnam" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61752" name="Southern Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60754" name="Afghanistan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60795" name="Bangladesh" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60811" name="Bhutan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61106" name="India" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61110" name="Iran, Islamic Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61286" name="Maldives" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61323" name="Nepal" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61404" name="Pakistan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61232" name="Sri Lanka" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61754" name="Western Asia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60761" name="Armenia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60774" name="Azerbaijan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60799" name="Bahrain" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60859" name="Cyprus" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61011" name="Georgia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61109" name="Iraq" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61104" name="Israel" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61150" name="Jordan" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61201" name="Kuwait" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61223" name="Lebanon" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61363" name="Oman" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61412" name="Palestinian Authority" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61437" name="Qatar" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61523" name="Saudi Arabia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61547" name="Syrian Arab Republic" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61583" name="Turkey" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60753" name="United Arab Emirates" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61785" name="Yemen" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+            </host-group>
+            <host-group id="61756" name="Europe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="61757" name="Eastern Europe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60816" name="Belarus" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60798" name="Bulgaria" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60860" name="Czech Republic" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61070" name="Hungary" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61268" name="Moldova, Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61405" name="Poland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61494" name="Romania" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61500" name="Russian Federation" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61533" name="Slovakia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61609" name="Ukraine" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="60941" name="Europe Proxy" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61759" name="Northern Europe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60772" name="Aaland Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60888" name="Denmark" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60925" name="Estonia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60978" name="Faroe Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60972" name="Finland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61111" name="Iceland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61097" name="Ireland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61105" name="Isle Of Man" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61243" name="Latvia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61241" name="Lithuania" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61322" name="Norway" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61532" name="Svalbard and Jan Mayen Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61527" name="Sweden" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61008" name="United Kingdom" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61760" name="Southern Europe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60760" name="Albania" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60752" name="Andorra" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60792" name="Bosnia and Herzegovina" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61067" name="Croatia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61015" name="Gibraltar" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61024" name="Greece" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61112" name="Italy" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61275" name="Macedonia, The Former Yugoslav Republic Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61284" name="Malta" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61269" name="Montenegro" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61413" name="Portugal" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61498" name="Republic of Serbia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61535" name="San Marino" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61531" name="Slovenia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60939" name="Spain" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61652" name="Vatican City State (Holy See)" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61761" name="Western Europe" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60768" name="Austria" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60796" name="Belgium" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60981" name="France" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60882" name="Germany" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61230" name="Liechtenstein" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61242" name="Luxembourg" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61267" name="Monaco" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61319" name="Netherlands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60842" name="Switzerland" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+            </host-group>
+            <host-group id="61762" name="Oceania" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="61763" name="Australia and New Zealand" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60769" name="Australia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61333" name="New Zealand" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61313" name="Norfolk Island" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61449" name="Melanesia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60973" name="Fiji" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61310" name="New Caledonia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61400" name="Papua New Guinea" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61524" name="Solomon Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61672" name="Vanuatu" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61450" name="Micronesia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="61027" name="Guam" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61187" name="Kiribati" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61272" name="Marshall Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60976" name="Micronesia, Federated States Of" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61325" name="Nauru" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61280" name="Northern Mariana Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61416" name="Palau" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+                <host-group id="61451" name="Polynesia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                    <host-group id="60767" name="American Samoa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="60845" name="Cook Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61399" name="French Polynesia" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61328" name="Niue" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61407" name="Pitcairn" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61713" name="Samoa" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61576" name="Tokelau" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61580" name="Tonga" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61587" name="Tuvalu" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                    <host-group id="61700" name="Wallis and Futuna Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                </host-group>
+            </host-group>
+            <host-group id="61452" name="Other" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+                <host-group id="60733" name="Anonymous Proxy" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60765" name="Antarctica" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60764" name="Asia/Pacific Region" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60813" name="Bouvet Island" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61107" name="British Indian Ocean Territory" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60858" name="Christmas Island" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60837" name="Cocos (Keeling) Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61571" name="French Southern Territories" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61062" name="Heard Island and McDonald Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61755" name="RFC 1918" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="60734" name="Satellite Provider" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61025" name="South Georgia and the South Sandwich Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61621" name="United States Minor Outlying Islands" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+                <host-group id="61758" name="Unknown" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+            </host-group>
+        </host-group>
+        <host-group id="47" name="Trusted Internet Hosts" host-baselines="false" suppress-excluded-services="true" inverse-suppression="false" host-trap="false">
+            <host-group id="29" name="Business Partner Networks" host-baselines="true" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" />
+        </host-group>
+    </outside-hosts>
+    <host-group id="62001" name="Command &amp; Control Servers" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false">
+        <host-group id="62196" name="Abstealer" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62190" name="Acruxminer" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62118" name="Agent.nfx" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62108" name="Aldibot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62153" name="Alina" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62150" name="Andromeda" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62113" name="Armageddon" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62184" name="Azorult" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62146" name="Banload" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62127" name="Barracuda" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62176" name="Betabot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62124" name="Bho-jba" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62110" name="Blackenergy" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62191" name="Bluebot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62112" name="Colddeath" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62166" name="Corebot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62195" name="Coresys" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62149" name="Cryptolocker" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62136" name="Darkcomet" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62101" name="Darkshell" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62102" name="Ddoser" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62170" name="Diamondfox" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62107" name="Dirtjumper" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62143" name="Dofoil" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62154" name="Dridex" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62142" name="Drive" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62159" name="Dyreza" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62131" name="Emo" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62162" name="Ezbro" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62182" name="Godzilla" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62120" name="Graybird" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62133" name="Grum Id" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62121" name="Grum Tasks" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62138" name="Gum8" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62105" name="Gumblar" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62180" name="Hancitor" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62128" name="Haxdoor" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62119" name="Hitpop" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62135" name="Hitpop Checkin" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62114" name="Http Post" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62122" name="Icepack" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62111" name="Illusion" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62129" name="Ircbot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62177" name="Isrstealer" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62157" name="Jackpos" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62156" name="Jedobot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62164" name="Kasidet" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62173" name="Katrina" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62167" name="Keybase" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62192" name="Kpot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62178" name="Kronos" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62174" name="Laziok" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62171" name="Locky" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62183" name="Lokibot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62137" name="Machbot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62179" name="Madness" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62186" name="Minerpanel" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62117" name="Mpack" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62123" name="Nethelper" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62161" name="Neverquest" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62163" name="Newpos" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62100" name="Nitol" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62168" name="Nivdort" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62103" name="Optima" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62134" name="Pandora" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62115" name="Pincher" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62139" name="Ponyloader" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62160" name="Poseidon" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62194" name="Predatorthethief" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62169" name="Proxyback" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62145" name="Pua" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62185" name="Quant" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62189" name="Rarog" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62165" name="Shifu" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62147" name="Shiz" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62141" name="Smokeloader" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62144" name="Snap" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62155" name="Solar" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62148" name="Stealrat" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62193" name="Suprememiner" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62188" name="Talos" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62172" name="Teslacrypt" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62130" name="Tibs" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62106" name="Torpig" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62175" name="Treasurehunt" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62181" name="Trickbot" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62116" name="Tsunami" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62140" name="Umbraloader" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62158" name="Vertexnet" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62125" name="Wsnpoem Config" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62132" name="Wsnpoem Drop" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62109" name="Yzf" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62104" name="Zeus" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62151" name="Zeus Gameover" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62152" name="Zeus Gameover 2 - Extra Life" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62187" name="Zezin" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="62126" name="Zonebac" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+    </host-group>
+    <host-group id="63000" name="Tor" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false">
+        <host-group id="63001" name="Tor Entrance" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+        <host-group id="63002" name="Tor Exit" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+    </host-group>
+    <host-group id="63006" name="Bogon" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false">
+        <host-group id="63007" name="Bogon Subnets" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" />
+    </host-group>
+</host-group-tree>
